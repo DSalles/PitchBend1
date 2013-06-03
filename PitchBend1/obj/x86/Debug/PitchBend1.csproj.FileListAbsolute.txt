@@ -1,0 +1,17 @@
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\bin\x86\Debug\PitchBend1.exe
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\bin\x86\Debug\PitchBend1.pdb
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\obj\x86\Debug\PitchBend1.exe
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\obj\x86\Debug\PitchBend1.pdb
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\bin\x86\Debug\Content\high.xnb
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\bin\x86\Debug\Content\low.xnb
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\bin\x86\Debug\Content\middle.xnb
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\bin\x86\Debug\Content\spot.xnb
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\obj\x86\Debug\PitchBend1.csprojResolveAssemblyReference.cache
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\bin\x86\Debug\Content\cursor.xnb
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\bin\x86\Debug\PitchBend1.exe.manifest
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\bin\x86\Debug\PitchBend1.application
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\obj\x86\Debug\PitchBend1.exe.manifest
+C:\Users\Diana\Documents\Games\PitchBend1\PitchBend1\obj\x86\Debug\PitchBend1.application
+\\MASTERJOY\Users\Public\PitchBend1\PitchBend1\obj\x86\Debug\PitchBend1.exe
+\\MASTERJOY\Users\Public\PitchBend1\PitchBend1\obj\x86\Debug\PitchBend1.pdb
